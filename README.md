@@ -1,88 +1,344 @@
-<!-- HEADER BANNER & TYPING ANIMATION -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:7C3AED,100:06B6D4&text=Ayesha%20Nagma&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
+
+# Ayesha Nagma
+
+### Software Developer • Machine Learning Enthusiast • Python Developer • AI Explorer • Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Software+Developer;Machine+Learning+Enthusiast;Python+Developer;AI+Explorer;Problem+Solver;Building+Intelligent+Systems;Turning+Ideas+Into+Solutions" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ayesha-decodes&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/ayesha-decodes?label=Followers&style=for-the-badge&color=06B6D4"/>
+
+<img src="https://img.shields.io/github/stars/ayesha-decodes?style=for-the-badge&color=7C3AED"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+```yaml
+Name: Ayesha Nagma
+
+Role: Software Developer
+
+Interests:
+  - Machine Learning
+  - Artificial Intelligence
+  - Data Science
+  - Software Development
+  - Problem Solving
+
+Current Focus:
+  - Deep Learning
+  - Backend Development
+  - Cloud Computing
+  - Data Structures & Algorithms
+```
+
+💡 Passionate about building intelligent software systems and exploring the intersection of **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**.
+
+🚀 Experienced in developing projects using **Python**, **Java**, and modern web technologies.
+
+📚 Continuously learning new technologies and improving problem-solving abilities through hands-on development and real-world projects.
+
+🎯 Interested in creating impactful technology solutions that combine innovation, automation, and data-driven intelligence.
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Programming Languages
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=70&lines=Ayesha+Nagma;Software+Developer;Machine+Learning+Enthusiast;Python+Developer;AI+Explorer;Problem+Solver" alt="Ayesha Nagma - Typing SVG" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
 </p>
+
+---
+
+## 🤖 Machine Learning & Data Science
 
 <p align="center">
-  <a href="https://github.com/ayeshanagma">
-    <img src="https://img.shields.io/github/followers/ayeshanagma?label=Followers&style=for-the-badge&color=6f42c1&labelColor=1f232a" alt="GitHub Followers">
-  </a>
-  <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/Contact-Recruiters-00F2FE?style=for-the-badge&labelColor=1f232a" alt="Contact Status">
-  </a>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 </p>
 
-<img src="https://capsule-render.vercel.app/type=wave&color=gradient&customColorList=11&height=180&section=header&text=%20&fontAlignY=40" width="100%" alt="Header Wave">
-
 ---
 
-## 💫 About Me
+## 🌐 Web Development
 
-Hi there! 👋 I am **Ayesha Nagma**, a tech-driven developer dedicated to bridging the gap between robust software engineering practices and data-driven intelligence. 
-
-- 🧠 **AI & ML Exploration:** Intensely passionate about software development, automated environments, and building truly intelligent systems.
-- 🔬 **Core Focus:** Strongly interested in Machine Learning pipeline architectures, Artificial Intelligence interfaces, and structural Data Science workflows.
-- 💻 **Familiar Ecosystems:** Experienced in developing, debugging, and maintaining software frameworks using Python and Java.
-- 📈 **Continuous Evolution:** Actively learning modern algorithms, clean-code architecture patterns, and agile engineering methodologies.
-- 🚀 **Mission:** Committed to writing optimized, clean code to engineer impactful technology solutions that solve real-world industry problems.
-
----
-
-## 🛠️ Tech Stack & Toolkit
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode,sublime&theme=dark" alt="Ayesha's Tech Stack" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 💻 Programming Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp; **Python** — Advanced Scripting, Object-Oriented Pipelines, Automation
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) &nbsp; **Java** — Object-Oriented Development, Data Collections, Structured Paradigms
-- ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) &nbsp; **SQL** — Database Management, Relational Modeling, Query Optimization
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) &nbsp; **HTML5** &nbsp;|&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) &nbsp; **CSS3** &nbsp;|&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) &nbsp; **JavaScript** — Web Interfaces & Responsive Layouts
-
-### 🧠 Machine Learning & Data Science
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) &nbsp; **NumPy** — Vectorized Matrix Computations & Numerical Infrastructure
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) &nbsp; **Pandas** — Data Wrangling, Cleaning, Integration, and Aggregation
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) &nbsp; **Matplotlib** — Data Exploratory Graphing & Matrix Visualizations
-- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) &nbsp; **Scikit-Learn** — Predictive Modeling, Regression, Classification, & Clustering
-- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) &nbsp; **Jupyter Notebook & Google Colab** — Exploratory Data Analysis & Rapid Prototyping
+- Responsive Design
+- Front-End Development
+- Interactive UI Development
 
 ---
 
-## 📈 GitHub Analytics
+## 🗄️ Database
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ayeshanagma&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshanagma&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshanagma&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Most Used Languages" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshanagma&bg_color=1a1b27&color=00f2fe&line=00f2fe&point=ff007f&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
-## ⏳ Professional Training & Experience
+## ⚙️ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+---
+
+# 📚 Experience
+
+## 🐍 Python Programming Training
+
+**ACEAR, Ambala**  
+**June 2023 – July 2023**
+
+✔ Python Fundamentals
+
+✔ Object-Oriented Programming
+
+✔ File Handling
+
+✔ Problem Solving
+
+✔ Practical Project Development
 
 ```text
- 2023 (Jun - Jul)   ✦ Python Programming Training — ACEAR, Ambala
-                    │   • Mastered Python syntax, core control matrices, and algorithms.
-                    │   • Deep dived into Object-Oriented Programming (OOP) paradigms.
-                    │   • Developed robust local file IO managers and clean code logic.
-                    └───
-                    
- Ongoing            ✦ Java Programming Training — Hartron
-                        • Conceptualized core Java compilation mechanics and execution stacks.
-                        • Working thoroughly with advanced OOP, Object Inheritance, and Polymorphism.
-                        • Mastering Java Collections Framework (Lists, Sets, Maps).
-                        • Implementing secure code via strict Exception Handling routines.
+June 2023 ─────────────── July 2023
+       Python Programming Training
+                ACEAR
+```
+
+---
+
+## ☕ Java Programming Training
+
+**Hartron**
+
+✔ Java Fundamentals
+
+✔ OOP Concepts
+
+✔ Collections Framework
+
+✔ Exception Handling
+
+✔ Application Development
+
+```text
+Java Programming Training
+         Hartron
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayesha-decodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-decodes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-decodes&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesha-decodes&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayesha-decodes&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayesha-decodes&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayesha-decodes&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayesha-decodes&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayesha-decodes&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 Machine Learning Project
+
+**Description:** Intelligent machine learning solution for predictive analytics and data-driven decision making.
+
+**Tech Stack:** Python, NumPy, Pandas, Scikit-Learn
+
+🔗 GitHub Repository: Coming Soon
+
+🌐 Live Demo: Coming Soon
+
+---
+
+## 📊 Data Analysis Project
+
+**Description:** Exploratory data analysis and visualization project.
+
+**Tech Stack:** Python, Pandas, Matplotlib
+
+🔗 GitHub Repository: Coming Soon
+
+🌐 Live Demo: Coming Soon
+
+---
+
+## ⚡ Python Automation Project
+
+**Description:** Automation scripts for improving workflow efficiency and productivity.
+
+**Tech Stack:** Python
+
+🔗 GitHub Repository: Coming Soon
+
+🌐 Live Demo: Coming Soon
+
+---
+
+## 🎨 Portfolio Website
+
+**Description:** Modern portfolio website showcasing skills, projects, and professional growth.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 GitHub Repository: Coming Soon
+
+🌐 Live Demo: Coming Soon
+
+---
+
+# 🌱 Currently Learning
+
+- Machine Learning
+- Artificial Intelligence
+- Deep Learning
+- Data Structures & Algorithms
+- Backend Development
+- Cloud Technologies
+
+---
+
+# 💡 Developer Philosophy
+
+> Technology is most powerful when it transforms ideas into meaningful solutions.
+>
+> I enjoy building systems that combine software engineering principles with data-driven intelligence to solve real-world problems.
+
+---
+
+# 🏅 Achievements
+
+## 📜 Certifications
+
+- Add Certification Here
+- Add Certification Here
+
+## 🎓 Training Programs
+
+- Python Programming Training — ACEAR
+- Java Programming Training — Hartron
+
+## 💻 Hackathons
+
+- Add Hackathon Participation
+
+## 🌍 Open Source Contributions
+
+- Add Open Source Contributions
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ayesha-decodes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ✨ Favorite Quote
+
+> "The best way to predict the future is to create it."
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:7C3AED,100:06B6D4"/>
+
+### Thanks for visiting my profile 🚀
+
+</div>
