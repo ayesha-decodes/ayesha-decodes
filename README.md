@@ -240,18 +240,6 @@ Java Programming Training
 
 ---
 
-## ⚡ Python Automation Project
-
-**Description:** Automation scripts for improving workflow efficiency and productivity.
-
-**Tech Stack:** Python
-
-🔗 GitHub Repository: Coming Soon
-
-🌐 Live Demo: Coming Soon
-
----
-
 ## 🎨 Portfolio Website
 
 **Description:** Modern portfolio website showcasing skills, projects, and professional growth.
