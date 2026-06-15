@@ -32,7 +32,6 @@ Interests:
   - Artificial Intelligence
   - Data Science
   - Software Development
-  - Problem Solving
 
 Current Focus:
   - Deep Learning
