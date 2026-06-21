@@ -272,23 +272,12 @@ Java Programming Training
 
 # 🏅 Achievements
 
-## 📜 Certifications
-
-- Add Certification Here
-- Add Certification Here
 
 ## 🎓 Training Programs
 
 - Python Programming Training — ACEAR
 - Java Programming Training — Hartron
 
-## 💻 Hackathons
-
-- Add Hackathon Participation
-
-## 🌍 Open Source Contributions
-
-- Add Open Source Contributions
 
 ---
 
