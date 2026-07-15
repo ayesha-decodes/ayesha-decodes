@@ -241,7 +241,7 @@ Java Programming Training
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-🔗 GitHub Repository:
+🔗 GitHub Repository: https://github.com/ayesha-decodes/portfolio
 
 Live: https://ayeshanagma-portfolio.netlify.app/
 
