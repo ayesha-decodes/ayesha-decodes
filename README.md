@@ -223,8 +223,6 @@ Java Programming Training
 
 🔗 GitHub Repository: Coming Soon
 
-🌐 Live Demo: Coming Soon
-
 ---
 
 ## 📊 Data Analysis Project
@@ -235,8 +233,6 @@ Java Programming Training
 
 🔗 GitHub Repository: Coming Soon
 
-🌐 Live Demo: Coming Soon
-
 ---
 
 ## 🎨 Portfolio Website
@@ -246,8 +242,6 @@ Java Programming Training
 **Tech Stack:** HTML, CSS, JavaScript
 
 🔗 GitHub Repository: Coming Soon
-
-🌐 Live Demo: Coming Soon
 
 ---
 
