@@ -221,7 +221,7 @@ Java Programming Training
 
 **Tech Stack:** Python, NumPy, Pandas, Scikit-Learn
 
-🔗 GitHub Repository: Coming Soon
+🔗 GitHub Repository: https://github.com/ayesha-decodes/mobile-addiction-predictor
 
 ---
 
