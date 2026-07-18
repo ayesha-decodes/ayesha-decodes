@@ -231,7 +231,7 @@ Java Programming Training
 
 **Tech Stack:** Python, Pandas, Matplotlib
 
-🔗 GitHub Repository: Coming Soon
+🔗 GitHub Repository: https://github.com/ayesha-decodes/school-management-analysis
 
 ---
 
