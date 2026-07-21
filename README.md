@@ -271,7 +271,7 @@ Live: https://ayeshanagma-portfolio.netlify.app/
 
 ## 🎓 Training Programs
 
-- Python Programming Training — ACEAR
+- Data Science Training — Kidobotics Pvt. Ltd.
 - Java Programming Training — Hartron
 
 
